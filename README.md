@@ -37,7 +37,7 @@ E-Book is an online book library where users can easily buy or borrow books, whi
 - GraphQL
 - Apollo Server
 
-## 🟢 Admin and Student Credentials :- 
+## 🟢 Admin and User Credentials :- 
 
 #### Admin
 
