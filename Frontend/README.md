@@ -2,7 +2,7 @@
 
 ### Deployment : <a href="https://book-library-saurav01.netlify.app/">Link</a>
 
-### Backend
+### Frontend
 - Chakra UI
 - auth-contex
 - React
