@@ -12,7 +12,7 @@
 
 - ### [Watch Demo Video](https://drive.google.com/file/d/1wMqwnwDPZyXRexX0vvQ_g8Gr5bJ8g8ni/view?usp=sharing)
 
-## Admin and Student Credentials
+## Admin and User Credentials
 
 ### Admin
 

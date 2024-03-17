@@ -11,7 +11,7 @@
 
 - ### [Watch Demo Video]()
 
-## Admin and Student Credentials
+## Admin and User Credentials
 
 ### Admin
 
