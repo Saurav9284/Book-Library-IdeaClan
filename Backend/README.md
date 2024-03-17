@@ -10,7 +10,7 @@
 - GraphQL
 - Apollo Server
 
-- ### [Watch Demo Video](https://drive.google.com/file/d/1wMqwnwDPZyXRexX0vvQ_g8Gr5bJ8g8ni/view?usp=sharing)
+- ### [Watch Demo Video](https://drive.google.com/file/d/1VnH_HwxI4PIUFcr-GU2ITyl3mG9H1XpN/view?usp=sharing)
 
 ## Admin and User Credentials
 
