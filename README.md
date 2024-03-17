@@ -1,8 +1,20 @@
-# Book-Library-IdeaClan
+## 📙 Book-Library-IdeaClan
 
-#### Backend Deploy : <a href="https://book-library-backend-saurav.vercel.app/">Link</a>
+E-Book is an online book library where users can easily buy or borrow books, while administrators have the capability to add, delete, and update books.⚡.
 
-#### Frontend Deploy : <a href="https://book-library-saurav01.netlify.app/">Link</a>
+## 🟢 Backend :-
+
+🟡 GitHub Repo :- https://github.com/Saurav9284/Book-Library-Backend
+
+🟡 Backend Deploy :- https://book-library-backend-saurav.vercel.app/
+
+## 🟢 Frontend :-
+
+🟡 GitHub Repo :- https://github.com/Saurav9284/Book-Library-Frontend
+
+🟡 Frontend Deploy :- https://book-library-saurav01.netlify.app/
+
+## 🟢 Tech Stacks :-
 
 ### Frontend
 - Chakra UI
@@ -19,38 +31,42 @@
 - GraphQL
 - Apollo Server
 
-- ### [Watch Frontend Demo Video]()
+## 🎥 Demo Videos :-
 
-- ### [Watch Backend Demo Video](https://drive.google.com/file/d/1wMqwnwDPZyXRexX0vvQ_g8Gr5bJ8g8ni/view?usp=sharing)
+- #### [Watch Frontend Demo Video]()
 
-## Admin and Student Credentials
+- #### [Watch Backend Demo Video](https://drive.google.com/file/d/1wMqwnwDPZyXRexX0vvQ_g8Gr5bJ8g8ni/view?usp=sharing)
 
-### Admin
+## 🟢 Admin and Student Credentials :- 
 
-- Email: [admin@gmail.com]
-- Password: [Admin@123]
+#### Admin
 
-### User
+- Email: admin@gmail.com
+- Password: Admin@123
 
-- Email: [saurav178chavan@gmail.com]
-- Password: [123]
+#### User
 
-## Installation and Setup
+- Email: saurav178chavan@gmail.com
+- Password: 123
 
-### Frontend
+## 🟢 Installation and Setup :-
+
+#### Frontend
 
 1. Clone the repository.
 2. Navigate to the frontend directory.
 3. Run `npm install` to install dependencies.
 5. Run `npm run start` to start the development server.
 
-### Backend
+#### Backend
 
 1. Clone the repository.
 2. Navigate to the backend directory.
 3. Run `npm install` to install dependencies.
 4. Rename `sample.env.txt` to `.env` and fill in the necessary environment variables.
 5. Run `npm run start` to start the development server.
+
+## 🟢 Images :-
 
 ### Admin DashBoard
 
