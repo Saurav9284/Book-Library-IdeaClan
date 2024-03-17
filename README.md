@@ -14,6 +14,12 @@ E-Book is an online book library where users can easily buy or borrow books, whi
 
 🟡 Frontend Deploy :- https://book-library-saurav01.netlify.app/
 
+## 🎥 Demo Videos :-
+
+- #### [Watch Frontend Demo Video]()
+
+- #### [Watch Backend Demo Video](https://drive.google.com/file/d/1wMqwnwDPZyXRexX0vvQ_g8Gr5bJ8g8ni/view?usp=sharing)
+
 ## 🟢 Tech Stacks :-
 
 ### Frontend
@@ -30,12 +36,6 @@ E-Book is an online book library where users can easily buy or borrow books, whi
 - Mongoose
 - GraphQL
 - Apollo Server
-
-## 🎥 Demo Videos :-
-
-- #### [Watch Frontend Demo Video]()
-
-- #### [Watch Backend Demo Video](https://drive.google.com/file/d/1wMqwnwDPZyXRexX0vvQ_g8Gr5bJ8g8ni/view?usp=sharing)
 
 ## 🟢 Admin and Student Credentials :- 
 
