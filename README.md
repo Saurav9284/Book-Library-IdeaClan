@@ -64,7 +64,7 @@ E-Book is an online book library where users can easily buy or borrow books, whi
 2. Navigate to the backend directory.
 3. Run `npm install` to install dependencies.
 4. Rename `sample.env.txt` to `.env` and fill in the necessary environment variables.
-5. Run `npm run start` to start the development server.
+5. Run `node index.js` to start the development server.
 
 ## 🟢 Images :-
 
