@@ -126,7 +126,7 @@ const getUserProfile = async (id) => {
     throw new Error("id not found");
   }
   try {
-    const user = await UserModel.findById(id).populate("book");
+    const user = await UserModel.findById(id);
     if (!user) {
       throw new Error("User not found");
     }
